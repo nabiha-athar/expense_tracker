@@ -1,4 +1,4 @@
-# Expense Tracker -- Designed and developed an expense tracker application to provide users with a user-friendly and efficient tool for managing personal finances. 
+# Expense Tracker -- An Expense Tracker Application to Manage Personal Finances
 
 Centered around being a monthly/yearly expense tracker. Users are able to use this program to track and manage their expenses in relation to their monthly income. 
 
